@@ -1,4 +1,4 @@
-package SWETA.MAVENSWETA;
+  package SWETA.MAVENSWETA;
 
 import org.testng.annotations.Test;
 
