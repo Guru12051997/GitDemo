@@ -12,6 +12,13 @@ public class AppiumTest {
 			System.out.println("ElementUI github");
 			System.out.println("ElementUI githuaab");
 			System.out.println("ElementUI githuba");
+			System.out.println("ElementUI githuba");
+			System.out.println("ElementUI githcuba");
+			System.out.println("ElementUI gitshuba");
+			System.out.println("ElementUI gitthuba");
+			System.out.println("ElementUI gitdhuba");
+			System.out.println("ElementUI gitchuba");
+
 			
 		}
 		@Test

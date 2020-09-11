@@ -7,6 +7,10 @@ public class RestAPITest {
 	public void MobileAutomation()
 	{
 		System.out.println("MobileAutomation");
+		System.out.println("ElementUI githuba");
+		System.out.println("ElementUI githuba");
+
+
 	}
 	@Test
 	public void FacebookAutomation()
