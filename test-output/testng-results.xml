@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-02T12:01:20 IST" name="Suite" finished-at="2020-07-02T12:01:20 IST" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2020-07-02T12:01:20 IST" name="Test" finished-at="2020-07-02T12:01:20 IST" duration-ms="68">
+      <class name="SWETA.MAVENSWETA.SeleniumTest">
+        <test-method signature="Android()[pri:0, instance:SWETA.MAVENSWETA.SeleniumTest@222114ba]" started-at="2020-07-02T12:01:20 IST" name="Android" finished-at="2020-07-02T12:01:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Android -->
+        <test-method signature="BrowserAutomation()[pri:0, instance:SWETA.MAVENSWETA.SeleniumTest@222114ba]" started-at="2020-07-02T12:01:20 IST" name="BrowserAutomation" finished-at="2020-07-02T12:01:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- SWETA.MAVENSWETA.SeleniumTest -->
+      <class name="SWETA.MAVENSWETA.AppiumTest">
+        <test-method signature="ElementUI()[pri:0, instance:SWETA.MAVENSWETA.AppiumTest@60dcc9fe]" started-at="2020-07-02T12:01:20 IST" name="ElementUI" finished-at="2020-07-02T12:01:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementUI -->
+        <test-method signature="MunuTesting()[pri:0, instance:SWETA.MAVENSWETA.AppiumTest@60dcc9fe]" started-at="2020-07-02T12:01:20 IST" name="MunuTesting" finished-at="2020-07-02T12:01:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MunuTesting -->
+      </class> <!-- SWETA.MAVENSWETA.AppiumTest -->
+      <class name="SWETA.MAVENSWETA.RestAPITest">
+        <test-method signature="FacebookAutomation()[pri:0, instance:SWETA.MAVENSWETA.RestAPITest@3c72f59f]" started-at="2020-07-02T12:01:20 IST" name="FacebookAutomation" finished-at="2020-07-02T12:01:20 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookAutomation -->
+        <test-method signature="MobileAutomation()[pri:0, instance:SWETA.MAVENSWETA.RestAPITest@3c72f59f]" started-at="2020-07-02T12:01:20 IST" name="MobileAutomation" finished-at="2020-07-02T12:01:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation -->
+      </class> <!-- SWETA.MAVENSWETA.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
