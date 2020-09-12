@@ -26,5 +26,15 @@ public class AppiumTest {
 		{
 			System.out.println("MunuTesting");
 		}
+		public void FacebookAutomation()
+		{
+			System.out.println("FacebookAutomation");
+			System.out.println("FacebookAutomation2");
+		}
+		public void FacebookAutomatio11n()
+		{
+			System.out.println("FacebookAutomation");
+			System.out.println("FacebookAutomation2");
+		}
 	}
 
