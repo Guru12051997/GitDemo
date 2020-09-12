@@ -36,5 +36,11 @@ public class AppiumTest {
 			System.out.println("FacebookAutomation");
 			System.out.println("FacebookAutomation2");
 		}
+		public void FacebooklAutomation()
+		{
+			System.out.println("FacebookAutomation");
+			System.out.println("FacebookAutomation2");
+		}
+
 	}
 

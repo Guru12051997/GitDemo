@@ -18,4 +18,10 @@ public class RestAPITest {
 		System.out.println("FacebookAutomation");
 		System.out.println("FacebookAutomation2");
 	}
+	public void FacebookAutomatio1n()
+	{
+		System.out.println("FacebookAutomation");
+		System.out.println("FacebookAutomation2");
+	}
+
 }
